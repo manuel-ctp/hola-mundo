@@ -13,11 +13,11 @@ Voy a probar con un **lista**:
 ## LISTA 2 con orden:
 1. First
 1. Second
-  1. Second bis
-  1. Second tris
+   1. Second bis
+   1. Second tris
 1. Third.
 
-Estos ejemplos los he encontrado en la página https://guides.github.com/features/mastering-markdown/
+Estos ejemplos los he encontrado en la página [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 **FIN**
 
 
